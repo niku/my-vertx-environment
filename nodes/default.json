@@ -4,6 +4,7 @@
   },
   "run_list": [
     "vertx",
-    "git"
+    "git",
+    "vertx-gradle-template"
   ]
 }
