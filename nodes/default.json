@@ -3,6 +3,7 @@
     "jdk_version": 7
   },
   "run_list": [
-    "vertx"
+    "vertx",
+    "git"
   ]
 }
