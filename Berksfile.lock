@@ -1,0 +1,11 @@
+DEPENDENCIES
+  vertx
+    git: git://github.com/akranga/chef_vertx.git
+    revision: c60686814146e5af0dbc9fbf7910d9d7ee69c15b
+
+GRAPH
+  ark (0.8.0)
+  java (1.22.0)
+  vertx (0.0.2)
+    ark (>= 0.0.0)
+    java (>= 0.0.0)
